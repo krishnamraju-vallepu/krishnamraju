@@ -1,0 +1,41 @@
+
+#include<stdio.h>
+int main()
+{
+    char ch1;  //declaring the character variable
+    char ch2;  //declaring the character variable
+    char ch3;  //declaring the character variable
+    char ch4;  //declaring the character variable
+    char ch5;  //declaring the character variable
+    char ch6;  //declaring the character variable
+    char ch7;  //declaring the character variable
+    char ch8;  //declaring the character variable
+    char ch9;  //declaring the character variable
+    char ch10;  //declaring the character variable
+    printf("ENTER THE CHARACTER VALUES\n");
+     //reading the input from keyboard with the help of scanf statement
+    scanf(" %c",&ch1);
+    scanf(" %c",&ch2);
+    scanf(" %c",&ch3); 
+    scanf(" %c",&ch4); 
+    scanf(" %c",&ch5); 
+    scanf(" %c",&ch6); 
+    scanf(" %c",&ch7);
+    scanf(" %c",&ch8);
+    scanf(" %c",&ch9);
+    scanf(" %c",&ch10);
+    //printing he character value with the help of printf statement
+    printf("%d\n",ch1); 
+    printf("%d\n",ch2);  
+    printf("%d\n",ch3); 
+    printf("%d\n",ch4);  
+    printf("%d\n",ch5);  
+    printf("%d\n",ch6);  
+    printf("%d\n",ch7);  
+    printf("%d\n",ch8);  
+    printf("%d\n",ch9); 
+    printf("%d\n",ch10);  
+    return 0;
+    
+    
+}
