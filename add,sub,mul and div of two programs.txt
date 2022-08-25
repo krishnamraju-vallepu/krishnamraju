@@ -1,0 +1,16 @@
+ #include<stdio.h>
+int main()
+{
+int a,b,c;
+a=10;
+b=5;
+c=a+b;
+printf("sum of a and b: %d",c);
+c=a-b;
+printf("diff of a and b: %d",c);
+c=a*b;
+printf("mul of a and b: %d",c);
+c=a/b;
+printf("div of a and b: %d",c);
+return 0;
+}
